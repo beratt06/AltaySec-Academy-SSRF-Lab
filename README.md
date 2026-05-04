@@ -43,6 +43,5 @@ docker compose up --build -d
 Sorularınız veya kurumsal eğitim talepleriniz için:
 - **Web:** [akademi.altaysec.com.tr](https://akademi.altaysec.com.tr/)
 - **E-Posta:** [info@altaysec.com.tr](mailto:info@altaysec.com.tr)
-- **Twitter/X:** [@AltaySec](https://twitter.com/AltaySec)
 
 **AltaySec Akademi — Siber Güvenlik Laboratuvarları 2026**
