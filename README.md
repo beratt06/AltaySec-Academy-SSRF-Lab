@@ -6,7 +6,7 @@ Bu proje, modern web uygulamalarındaki **Server-Side Request Forgery (SSRF)** z
 
 ## 🏗️ Laboratuvar Yapısı
 
-Sistem, gerçekçi bir portfolyo/blog tasarımı (AltaySec Offensive Security Notes) altında üç farklı zorluk seviyesinden oluşur:
+Sistem, gerçekçi bir portfolyo/blog tasarımı altında üç farklı zorluk seviyesinden oluşur:
 
 | Seviye | Port | Senaryo | Teknik |
 | :--- | :--- | :--- | :--- |
@@ -34,7 +34,6 @@ docker compose up --build -d
 ## 🛡️ Güvenlik Notları
 - Bu laboratuvarlar **kasıtlı olarak zafiyetli** bırakılmıştır.
 - Sadece yerel ağda (localhost) veya izole eğitim ortamlarında çalıştırılmalıdır.
-- Gerçek sistemlerde bu açıkların nasıl kapatılacağı, her labın **Hakkımızda** ve **Analiz İpucu** bölümlerinde açıklanmıştır.
 
 ---
 
